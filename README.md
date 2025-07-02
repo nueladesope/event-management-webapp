@@ -1,7 +1,7 @@
 Event Management WebApp
 ===========================
 
-A full-featured Event Management Web Application built with Django! This platform allows users to create, manage, and browse events — perfect for community organizers, business events, and more.
+A basic Event Management Web Application built with Django! This platform allows users to create, manage, and browse events 
 
 Developed by @nueladesope (https://github.com/nueladesope)
 
