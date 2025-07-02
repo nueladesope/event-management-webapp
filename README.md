@@ -75,13 +75,15 @@ Then visit: http://127.0.0.1:8000
 📁 Project Structure
 --------------------
 event-management-webapp/
+
 ├── events/ # Core event app (models, views, forms)
-├── accounts/ # User registration/login
+
 ├── templates/ # HTML templates
+
 ├── static/ # CSS, JS, images
-├── media/ # Uploaded event images
+
 ├── manage.py
-├── requirements.txt
+
 └── README.md
 
 
